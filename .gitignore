@@ -1,0 +1,10 @@
+# get rid of venv stuff
+bin/
+data/
+etc/
+lib/
+lib64/
+lib64
+share/
+pyvenv.cfg
+.csv
